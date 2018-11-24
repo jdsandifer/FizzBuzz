@@ -1,5 +1,5 @@
 // Common approach using a loop and conditionals
-// This one assumes uses modulus 15 as a shortcut for
+// This one uses modulus 15 as a shortcut for
 // checking for factors of 3 and 5 at the same time.
 
 const fizzBuzz = (max) => {
