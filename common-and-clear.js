@@ -1,4 +1,4 @@
-// Common approach using loop and conditionals
+// This approach has a loop and conditionals.
 // Using two checks in the first conditional
 // clarifies the intent.
 
