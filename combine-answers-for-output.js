@@ -1,4 +1,4 @@
-// Common approach using loop and conditionals
+// This time I'm using a loop and conditionals
 // except no output is generated until the end.
 // This approach to problems can be useful where
 // lots of data needs to be output, written to a file,
