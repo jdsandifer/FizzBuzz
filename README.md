@@ -18,3 +18,8 @@ exploration of the language.
 
 Finally, if you ever find yourself interviewing me for a job - FizzBuzz is one problem I'm guessing we'll be able to skip. 
 Or at least we'll be able to have a more interesting discussion about it!
+
+
+### Index
+I've grouped some of the solutions I created for easy refenrence in sections:
+* Imperative: [Stictly Imperative](https://github.com/jdsandifer/FizzBuzz/blob/master/strictly-imperative.js)
