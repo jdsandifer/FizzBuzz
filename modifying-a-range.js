@@ -5,8 +5,8 @@
 // the lot.
 
 const fizzBuzz = max => {
-  let numbers = range(max)
-  numbers = numbers.map(num => {
+  const numbers = range(max)
+  const numbersAndWords = numbers.map(num => {
     const divisibleByThree = num % 3 === 0
     const divisibleByFive = num % 5 === 0
 
@@ -20,7 +20,7 @@ const fizzBuzz = max => {
       return num
     }
   })
-  const output = numbers.join("\n")
+  const output = numbersAndWords.join("\n")
   console.log(output)
 }
 
